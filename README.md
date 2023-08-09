@@ -8,7 +8,7 @@ It is a project where a copy of the hyper-casual style game called Silly Race is
 It is a project where a copy of the hyper-casual style game called Silly Race is prepared individually. The aim of the game is to avoid obstacles on the platform and reach the finish line before artificial intelligence.
 It is a project where a copy of the hyper-casual style game called Silly Race is prepared individually. The aim of the game is to avoid obstacles on the platform and reach the finish line before artificial intelligence.
 It is a project where a copy of the hyper-casual style game called Silly Race is prepared individually. The aim of the game is to avoid obstacles on the platform and reach the finish line before artificial intelligence.It is a project where a copy of the hyper-casual style game called Silly Race is prepared individually. The aim of the game is to avoid obstacles on the platform and reach the finish line before artificial intelligence.
-It is a project where a copy of the hyper-casual style game called Silly Race is prepared individually. The aim of the game is to avoid obstacles on the platform and reach the finish line before artificial intelligence.
+It is a project where a copy of the hyper-casual style game called Silly Race is prepared individually. The aim of the game is to avoid obstacles on the platform and reach the finish line before artificial intelligence.gi
 
 
 
